@@ -1,0 +1,29 @@
+/* CSS Reset*/
+* {
+  box-sizing: border-box;
+}
+
+
+/*layout*/
+
+.contain {
+  display: flex;
+  
+}
+
+
+
+/*side-menu */
+
+.item {
+  list-style: none;
+  padding: 20px;
+  border: 1px solid ; 
+  cursor: pointer;
+  
+}
+
+.item:hover {
+  background-color: #66a3ff;
+
+}
